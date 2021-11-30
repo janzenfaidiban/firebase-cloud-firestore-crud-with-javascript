@@ -1,2 +1,1 @@
-# firebase-cloud-firestore-crud-with-javascript
-Firebase Cloud Firestore CRUD with JavaScript
+Find the whole tutorial here : https://youtu.be/z-pyxOx3i1s
